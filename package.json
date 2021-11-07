@@ -1,0 +1,19 @@
+{
+  "name": "learnassist",
+  "version": "1.0.0",
+  "description": "Learning assistant application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SivaramShabariKCT/LearnAssist.git"
+  },
+  "author": "Sivaram Shabari A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SivaramShabariKCT/LearnAssist/issues"
+  },
+  "homepage": "https://github.com/SivaramShabariKCT/LearnAssist#readme"
+}
